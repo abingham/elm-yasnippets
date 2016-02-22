@@ -1,4 +1,4 @@
-;;; elixir-yasnippets.el --- Yasnippets for Elixir
+;;; elm-yasnippets.el --- Yasnippets for Elm
 
 ;; Copyright (C) 2016 Austin Bingham
 
