@@ -1,7 +1,6 @@
 # -*- mode: snippet -*-
-# name: docstring
-# key: docstring
+# name: import
+# key: import
 # expand-env: ((yas-indent-line 'fixed))
 # --
-{-| $0
--}
+import $1 exposing ($0)
