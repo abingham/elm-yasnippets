@@ -22,8 +22,6 @@
 (eval-after-load 'yasnippet
    '(elm-snippets-initialize))
 
-(require 'yasnippet)
-
 (provide 'elm-yasnippets)
 
 ;;; elm-yasnippets.el ends here
