@@ -9,8 +9,7 @@
 
 ;;; Code:
 
-(setq elm-snippets-dir (file-name-directory (or (buffer-file-name)
-                                                 load-file-name)))
+(setq elm-snippets-dir (file-name-directory load-file-name))
 
 ;;;###autoload
 (defun elm-snippets-initialize ()
